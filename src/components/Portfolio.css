@@ -26,7 +26,6 @@
     text-align: center;
     padding: 30px;
     color: var(--text-color);
-    background-image: url('C:\Users\yaelj\OneDrive\Desktop\project1_portfolio\jjportfolio\public\headerBackground.gif'); /* Path to your GIF */
     background-size: cover;       /* Ensures the GIF covers the entire header */
     background-position: center;  /* Centers the GIF */
     background-repeat: no-repeat; /* Prevents the GIF from repeating */
